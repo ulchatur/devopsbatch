@@ -1,2 +1,0 @@
-This is the Git Class
-This is git demo class
