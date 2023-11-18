@@ -1,2 +1,2 @@
-print (hello)
+This is git demo class
 This is git demo class
