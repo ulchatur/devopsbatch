@@ -1,2 +1,4 @@
 This is git demo class
 This is git demo class
+This is Jenkins Demo class
+This is Git poll SCM
